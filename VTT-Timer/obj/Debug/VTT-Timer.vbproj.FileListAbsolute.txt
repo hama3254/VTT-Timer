@@ -1,0 +1,12 @@
+D:\Projecte\VTT-Timer\VTT-Timer\bin\Debug\VTT-Timer.exe.config
+D:\Projecte\VTT-Timer\VTT-Timer\bin\Debug\VTT-Timer.exe
+D:\Projecte\VTT-Timer\VTT-Timer\bin\Debug\VTT-Timer.pdb
+D:\Projecte\VTT-Timer\VTT-Timer\bin\Debug\VTT-Timer.xml
+D:\Projecte\VTT-Timer\VTT-Timer\obj\Debug\VTT-Timer.vbprojAssemblyReference.cache
+D:\Projecte\VTT-Timer\VTT-Timer\obj\Debug\VTT_Timer.Form1.resources
+D:\Projecte\VTT-Timer\VTT-Timer\obj\Debug\VTT_Timer.Resources.resources
+D:\Projecte\VTT-Timer\VTT-Timer\obj\Debug\VTT-Timer.vbproj.GenerateResource.cache
+D:\Projecte\VTT-Timer\VTT-Timer\obj\Debug\VTT-Timer.vbproj.CoreCompileInputs.cache
+D:\Projecte\VTT-Timer\VTT-Timer\obj\Debug\VTT-Timer.exe
+D:\Projecte\VTT-Timer\VTT-Timer\obj\Debug\VTT-Timer.xml
+D:\Projecte\VTT-Timer\VTT-Timer\obj\Debug\VTT-Timer.pdb
