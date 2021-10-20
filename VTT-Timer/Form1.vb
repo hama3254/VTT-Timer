@@ -8,7 +8,7 @@
         'MsgBox(WakaTime.ToString + "." + WakaTime.Millisecond.ToString)
 
         Dim Differnce As TimeSpan = FuniTime.Subtract(WakaTime)
-        Dim Differnce2 As Date = Date.Parse(Differnce.ToString)
+        'Dim Differnce2 As Date = Date.Parse(Differnce.ToString)
 
         'MsgBox(Differnce2.ToString + " " + Differnce2.Millisecond.ToString + "ms")
         Try
